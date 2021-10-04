@@ -5,6 +5,9 @@
 **그래프 탐색**은 **어떤 정점에서 시작하여 차례대로 모든 정점들을 한 번씩 방문하는 것**을 의미합니다.
 
 ## DFS
+![dfs](https://user-images.githubusercontent.com/38287375/135860618-d4ae2f87-6ef2-4a83-86ee-9d5ce87822c9.gif)
+출처 https://developer-mac.tistory.com/64
+
 >Depth First Search
 깊이 우선 탐색 (재귀 알고리즘)
 
@@ -27,6 +30,10 @@
 3. 검색 속도 자체는 너비 우선 탐색(BFS)에 비해서 느림
 
 ## BFS
+![bfs](https://user-images.githubusercontent.com/38287375/135860854-2b78216c-120e-4fab-bc9d-ab867a83f364.gif)
+출처 https://developer-mac.tistory.com/64
+
+
 > Breadth First Search
 > 너비 우선 탐색 (큐 이용한 반복 알고리즘)
 
@@ -47,7 +54,8 @@ BFS는 방문한 노드들을 차례로 저장한 후 꺼낼 수 있는 선입�
 
 
 ## DFS와 BFS 비교
-
+![dfs_vs_bfs](https://user-images.githubusercontent.com/38287375/135860920-84715212-f6b3-4fa5-85fb-429f18909db0.gif)
+출처 https://namu.wiki/w/BFS
 
 
 |DFS                |BFS                          |
