@@ -23,7 +23,7 @@
 | ------ | ------ | ------ | ------ |
 | 21.10.05 | DFS/BFS | 안세연 | https://www.acmicpc.net/problem/2667 |
 | 21.10.07 | 다익스트라/Prim | 황보라 | https://www.acmicpc.net/problem/1753 |
-| 21.10.12 | 브루트 포스 | 홍종현 | | https://www.acmicpc.net/problem/1182 |
+| 21.10.12 | 브루트 포스 | 홍종현 | https://www.acmicpc.net/problem/1182 |
 | 21.10.14 | 백트래킹 | 안세연 | |
 | 21.10.19 | 그리디 알고리즘 | 손모은 | |
 | 21.10.21 | Kruskal/서로소집합 | 황보라| |
