@@ -92,5 +92,50 @@
      static int dc[] = {0,0,-1,1}  
      ```  
 ---
-     
+ 
+### 문제풀이  
+백준 부분수열의 합  
+**비스마스킹**  
+AND 연산 = 대응하는 두 비트가 모두 1일 때 1 반환 ex) 1010 & 1111 = 1010  
+OR 연산 = 대응하는 두 비트가 하나라도 1일때 1 반환 ex) 1010 | 1111 = 1111  
+XOR 연산 = 대응하는 두 비트가 서로 다르면 1 반환 ex) 1010 | 1111 = 0101  
+NOT 연산 = 비트의 값을 반전하여 반환 ex) ~1010 = 0101  
+시프트 연산 = 비트를 <<, >> 방향으로 이동 ex) 00001010 << 2 = 00101000
+
+
+```java
+import java.util.*;
+
+public class Main {
+	static int N,S, sum, res=0;
+	static int[] arr;
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		N = sc.nextInt();
+		S = sc.nextInt();
+		arr = new int[N];
+		
+		for(int i=0; i<N; i++) {
+			arr[i] = sc.nextInt();
+		}
+		
+		for(int i=1; i<(1<<N); i++) { // 0001을 N만큼 <<이동  -> ex) 10 0000 == 32
+			sum = 0;
+			for(int j=0; j<N; j++) { // N만큼 반복 -> ex) 00 0001, 00 0010, 00 0100 ... 10 0000
+				if((i & (1<<j)) != 0) {
+					sum += arr[j];
+				}
+			}
+			
+			if(sum == S) {
+				res++;
+			}
+		}
+		
+		System.out.println(res);
+	}
+}
+```
+
      
