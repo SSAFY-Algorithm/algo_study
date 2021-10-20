@@ -27,7 +27,7 @@
 | 21.10.14 | 백트래킹 | 안세연 | https://www.acmicpc.net/problem/2580 |
 | 21.10.19 | 그리디 알고리즘 | 손모은 | https://www.acmicpc.net/problem/1931 |
 | 21.10.21 | Kruskal/서로소집합 | 황보라| https://www.acmicpc.net/problem/1922|
-| 21.10.26 | DP | 김주향 | | https://www.acmicpc.net/problem/2748
+| 21.10.26 | DP | 김주향 | https://www.acmicpc.net/problem/2748 | 
 | 21.10.28 | 플로이드 워셜 | 홍종현 | |
 
 
