@@ -28,7 +28,7 @@
 | 21.10.19 | 그리디 알고리즘 | 손모은 | https://www.acmicpc.net/problem/1931 |
 | 21.10.21 | Kruskal/서로소집합 | 황보라| https://www.acmicpc.net/problem/1922|
 | 21.10.26 | DP | 김주향 | https://www.acmicpc.net/problem/11726 | 
-| 21.10.28 | 플로이드 워셜 | 홍종현 | |
+| 21.10.28 | 플로이드 워셜 | 홍종현 | https://www.acmicpc.net/problem/1956 |
 
 
 ### 📌 참조
