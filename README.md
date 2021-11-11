@@ -46,7 +46,7 @@
 
 | 날짜 | 발표자 | 문제 링크 1 | 문제 링크 2
 | ------ | ------ | ------ | ------ |
-| 21.11.08 | 김주향 | https://www.acmicpc.net/problem/16234 | https://www.acmicpc.net/problem/14502 |
+| 21.11.12 | 김주향 | https://www.acmicpc.net/problem/16234 | https://www.acmicpc.net/problem/14502 |
 | 21.11.15 | 황보라 | https://www.acmicpc.net/problem/14501  | https://www.acmicpc.net/problem/14889 |
 | 21.11.22 | 홍종현 |  |  |
 | 21.11.29 | 안세연 |  |  |
