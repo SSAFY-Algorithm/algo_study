@@ -50,7 +50,7 @@
 | 21.11.15 | 황보라 | https://www.acmicpc.net/problem/14501  | https://www.acmicpc.net/problem/14889 |
 | 21.11.22 | 홍종현 | https://www.acmicpc.net/problem/1260  | https://www.acmicpc.net/problem/6593 |
 | 21.11.29 | 안세연 | https://www.acmicpc.net/problem/9251 | https://www.acmicpc.net/problem/2579 |
-| 21.12.06 | 손모은 |  |  |
+| 21.12.06 | 손모은 | https://www.acmicpc.net/problem/11049 | https://www.acmicpc.net/problem/1562  |
 
 
 ### 📌 참조
